@@ -1,0 +1,21 @@
+@media (max-width: 768) {
+    .walletAddress {
+        width: 16.66%;
+        font-size: 14px;
+    }
+    .swapButton {
+        width: 16.66%;
+    }
+    .MuiAutocomplete-inputRoot {
+        color: black;
+    }
+    
+}
+.choose-currency fieldset {
+    border: none!important;
+}
+.choose-currency input {
+    text-align: right!important;
+    margin-right: 24px!important;
+    padding: 4px 8px!important;
+}

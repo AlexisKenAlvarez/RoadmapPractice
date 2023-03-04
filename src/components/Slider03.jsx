@@ -56,6 +56,7 @@ const Slider03 = () => {
         speed: 200,
         slidesToShow: 1,
         slidesToScroll: 1,
+        arrows: true,
         beforeChange: (current, next) => {
             setIndex(next)
             setCurr(current)
